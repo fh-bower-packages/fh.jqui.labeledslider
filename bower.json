@@ -1,0 +1,25 @@
+{
+  "name": "fh.jqui.labeledslider",
+  "version": "1.0",
+  "homepage": "https://github.com/fh-bower-packages/fh.jqui.labeledslider",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "jquery ui labeledslider",
+  "main": [
+    "jquery.ui.labeledslider.css", 
+    "jquery.ui.labeledslider.js"
+  ],
+  "keywords": [
+    "jquery",
+    "labeledslider"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
